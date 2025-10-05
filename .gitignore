@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Eggs
+*.egg-info/
+*.egg
+
+# Build artifacts
+dist/
+build/
+
+# Data files
+*.data
+*.log
+data/
+models/
+reports/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data formats
+*.csv
+*.json
+*.pkl
+
+# OS-specific
+.DS_Store
